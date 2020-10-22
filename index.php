@@ -85,7 +85,7 @@ github.io
       <div class="user-panel mt-1 pb-1 mb-1 d-flex">
           <img src="https://raw.githubusercontent.com/mim321/home/main/photo.jpeg" alt="User Image" style="height:30px;">
         <div class="info">
-          <a href="https://github.com/thaiall/mygitfriends" class="d-block">Nichapa Kajan</a>
+          <a href="https://github.com/mim321?tab=repositories" class="d-block">Nichapa Kajan</a>
         </div>
       </div>
 
@@ -94,38 +94,10 @@ github.io
         <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
           <!-- Add icons to the links using the .nav-icon class with font-awesome or any other icon font library -->
           <!-- li class="nav-item has-treeview menu-open" -->
-          <li class="nav-item has-treeview">
-            <a href="#" class="nav-link active">
-              <i class="nav-icon fas fa-tachometer-alt"></i>
-              <p>
-                Nation University
-                <i class="right fas fa-angle-left"></i>
-              </p>
-            </a>
-            <ul class="nav nav-treeview">
-              <li class="nav-item">
-                <a href="http://www.nation.ac.th/index.php/th/faculty-of-bba" class="nav-link active">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>คณะบริหารธุรกิจ</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="http://www.nation.ac.th/index.php/th/component/sppagebuilder/124-" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>ส่วนงานไอที</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="http://www.nation.ac.th/index.php/th/component/sppagebuilder/122-" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>ส่วนงานวิจัย</p>
-                </a>
-              </li>
-            </ul>
-          </li>
+        
 
 		  <li class="nav-item has-treeview menu-close">
-            <a href="http://www.thaiall.com/me" class="nav-link">
+            <a href="https://github.com/mim321?tab=repositories" class="nav-link">
               <i class="nav-icon fas fa-gem"></i>
               <p>
                 นิชาภา กะจันทร์
@@ -150,7 +122,13 @@ github.io
                   <i class="far fa-circle nav-icon"></i>
                   <p>twitter</p>
                 </a>
-              </li>              
+              </li>    
+              <li class="nav-item">
+                <a href="me.php" class="nav-link active">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>About Me</p>
+                </a>
+              </li>            
             </ul>
           </li>
 
@@ -200,17 +178,47 @@ github.io
       </div>
 </fieldset>
 
+<fieldset class="col-12 small-box" style="font-family:kanit;float:left;"><legend><b>นิสิตรหัส 61</b></legend>
+      <div class="user-panel mt-1 pb-1 mb-1 d-flex">
+        <div class="image">
+          <img src="https://thaiall.github.io/mygitfriends/peach_girl.jpg" alt="User Image" style="height:30px;">
+        </div>
+        <div class="info">
+          <a href="https://github.com/thaiall/mygitfriends/blob/master/collaborators.htm" class="d-block">My Git Friends</a>
+        </div>
+      </div>
+      <div class="user-panel mt-1 pb-1 mb-1 d-flex">
+        <div class="image">
+          <img src="https://thaiall.github.io/mygitfriends/peach_girl.jpg" alt="User Image" style="height:30px;">
+        </div>
+        <div class="info">
+          <a href="https://expo.io/@thaiall/projects/mygitfriends" class="d-block">mygitfrinds : android & ios</a>
+        </div>
+      </div>	
+</fieldset>
 
-
-<fieldset class="col-12 small-box" style="font-family:kanit;"><legend><b>About me</b></legend>
+<fieldset class="col-12 small-box" style="font-family:kanit;"><legend><b>การทำ CSR</b></legend>
 <style>
 .bigcap{float:left;font-size:60px;line-height:0.5;margin-top:5px;margin-right:5px;margin-left:5px;color:#000088}
 </style>
-<p><span class="bigcap"></span><b>สวัสดีค่ะทุกท่านที่เข้ามาอ่าน</b>
-    ดิฉัน นางสาวนิชาภา กะจันทร์ นิสิตมหาวิทยาลัยเนชั่น จังหวัดลำปาง
+<p><span class="bigcap">C</span><b>SR (Corporate Social Responsibility) หรือ บรรษัทบริบาล</b>
+หมายถึง การดำเนินกิจกรรมภายในและภายนอกองค์กร 
+ที่คำนึงถึงผลกระทบต่อสังคมทั้งในองค์กรและในระดับใกล้และไกล 
+ด้วยการใช้ทรัพยากรที่มีอยู่ในองค์กร หรือทรัพยากรจากภายนอกองค์กร 
+ในอันที่จะทำให้อยู่ร่วมกันในสังคมได้อย่างเป็นปกติสุข
 </p>
-
-
+<p><span class="bigcap">C</span><b>SR</b> ในระดับของประชาสังคม ตัวอย่างความรับผิดชอบต่อสังคมของกิจการ ได้แก่ 
+การสร้างความร่วมมือระหว่างกลุ่มหรือเครือข่ายอื่น ๆ ในการพัฒนาสังคม 
+การตรวจตราดูแลมิให้กิจการเข้าไปมีส่วนเกี่ยวข้องกับการล่วงละเมิดสิทธิมนุษยชน 
+การรับฟังข้อมูลหรือทำประชาพิจารณ์ต่อการดำเนินกิจการที่ส่งผลกระทบต่อสังคมโดยรวม 
+และการทำหน้าที่ในการเสียภาษีอากรให้รัฐอย่างตรงไปตรงมา เป็นต้น
+</p>
+<p><span class="bigcap">ดั</span><b>งนั้น</b> การเป็นผู้สนับสนุนเว็บไซต์ด้านการศึกษาอย่างไทยออลดอทคอม
+ที่มีเป้าหมายในการเป็นช่องทางให้ข้อมูลความรู้
+ที่เป็นประโยชน์ และร่วมพัฒนาการศึกษา
+มีกลุ่มเป้าหมายคือ ครู นักเรียน นักศึกษา นักพัฒนาด้านไอที หรือผู้สนใจทั่วไป
+ย่อมทำให้สังคมดีขึ้น ก็ถือเป็นการแสดงความรับผิดชอบต่อสังคมของกิจการอีกทางหนึ่ง
+</p>
 </fieldset>
     </section>
     <!-- /.content -->
