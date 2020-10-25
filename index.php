@@ -118,7 +118,7 @@ github.io
                 </a>
               </li> 
               <li class="nav-item">
-                <a href="https://twitter.com/home?lang=th" class="nav-link">
+                <a href="https://twitter.com/mymimmmm1" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>twitter</p>
                 </a>
